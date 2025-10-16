@@ -1,0 +1,21 @@
+# ------------------------------------
+# Arquivos de Configuração do Editor/IDE
+# ------------------------------------
+# Pasta de configurações do Visual Studio Code
+.vscode/
+
+# ------------------------------------
+# Arquivos de Build e Executáveis
+# ------------------------------------
+# Arquivos executáveis do Windows
+*.exe
+# Arquivos executáveis de outros sistemas (Linux/macOS)
+*.out
+# Arquivos objeto (gerados durante a compilação)
+*.o
+
+# Ignorar arquivos temporários de linkagem e debug
+*.dll
+*.so
+*.dylib
+*.pdb
